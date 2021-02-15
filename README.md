@@ -24,3 +24,25 @@ _Esta libreria sirve para realizar las siguientes operaciones entre vectores y m
 - Revisar si una matriz es unitaria
 - Revisar si una matriz es Hermitiana
 - Producto tensor de dos matrices/vectores
+
+## Funcionamiento
+
+_Para usar esta calculadora de operaciones entre vectores y matrices complejas se debe descargar la libreria que aparece en este mismo repositorio "Complex_Vector_Spaces.py"_
+
+## Entradas de la libreria
+
+- _Vectores: [(Parte real, Parte imaginaria), (Parte real, Parte imaginaria), (Parte real, Parte imaginaria), ...]_
+
+- _Matrices: [[(Parte real, Parte imaginaria), (Parte real, Parte imaginaria), ...],
+              [(Parte real, Parte imaginaria), (Parte real, Parte imaginaria), ...],
+              [(Parte real, Parte imaginaria), (Parte real, Parte imaginaria), ...], ...]_
+
+## Requisitos
+
+- Tener instalado Python
+
+## Autor
+
+_Kristhian David Segura_
+
+
